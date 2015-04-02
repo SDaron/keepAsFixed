@@ -3,7 +3,7 @@ keepAsFixed
 
 KeepAsFixed Plugin for jQuery
 
-This plugin allow to give a fixed position to any DOM element, adding a hidden clone to keep navigation fluid.
+This plugin give a fixed position to any DOM element if it's hidden by scrolling, and add a hidden clone of it to keep navigation fluid.
 
 Usage
 ```
